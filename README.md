@@ -1,0 +1,2 @@
+# Failure-assessment-Curve-FAC-training-data
+用于训练管道结构失效评估曲线的原始数据，其中数据分为两部分，第一部分数据来源于SENT阻力曲线试验，第二部分来源于全尺寸管道有限元仿真获得的裂纹驱动力分量
